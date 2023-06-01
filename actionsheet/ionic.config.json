@@ -1,0 +1,7 @@
+{
+  "name": "actionsheet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
